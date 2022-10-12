@@ -1,0 +1,93 @@
+body{
+    background-color: black
+}
+
+.paiN {
+    color: aliceblue;
+    padding-left: 30px;
+    position: relative;
+    top: 10px;
+    
+}
+.login {
+   position: relative;
+    bottom: 140px;
+    left: 600px;
+    font-size: x-large;
+    color: white
+    
+}
+
+.cadastro {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 197px;
+    bottom: 61px;
+    
+    
+    
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 230px;
+}
+
+.pesquisa {
+  position: relative;
+  bottom: 10px;
+  margin-left: 470px;
+
+}
+
+.pesquisa input {
+  height: 50px;
+  width: 100%;
+  color: #fff;
+  background-color: #333;
+  border: none;
+  border-radius: 100px;
+  padding-left: 15px;
+  box-sizing: border-box;
+  outline: none;
+  max-width: 200px;
+  
+}
+.pesquisa input:hover {
+  background-color: #444;
+}
+
+.b .button {
+    background-color: #07070793;
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    position: relative;
+    left: 700px;
+    bottom: 55px;
+   
+  }
+  
+  .b .button:not(:last-child) {
+    border-right: none; 
+  }
+  
+  .b .button:hover {
+    background-color: #ff11005b;
+  } 
+
+    .frente {
+    width: 100%;
+    
+    position: relative;
+    bottom: 30px;
+    }

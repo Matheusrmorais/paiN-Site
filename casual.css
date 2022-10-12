@@ -1,0 +1,178 @@
+body{
+    background-color: black;
+    
+}
+
+
+
+.conteudo {
+    text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .linha {
+    display: flex;
+    justify-content: center;
+ 
+    
+  }
+  .card {
+    max-width: 900px;
+    display: flex;
+    margin-top: 500px;
+  }
+  .card_img {
+    max-width: 100%;
+    max-width: 400px;
+    padding: 60px;
+    cursor: pointer;
+  }
+  .card_text {
+    margin-left: 0px;
+    color: white;
+    padding-right: 0px;
+    padding-top: 100px;
+    font-size: xx-large;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+    width: 300px;
+    height: 250px;
+    border-radius: 10%;
+    text-align: center;
+    margin-top: 250px;
+   
+    
+  }
+
+  .linha2 {
+    display: flex;
+    justify-content: center;
+  }
+
+
+.card2 {
+  max-width: 900px;
+  display: flex;
+  margin-top: 500px;
+}
+.card_img2 {
+  max-width: 100%;
+  max-width: 400px;
+  padding: 60px;
+  cursor: pointer;
+ 
+ 
+  
+}
+.card_text2 {
+  margin-left: 0px;
+  color: white;
+  padding-right: 0px;
+  padding-top: 100px;
+  font-size: xx-large;
+  border-style: solid;
+  background-color: rgba(255, 255, 255, 0);
+  border-color: white;
+  width: 300px;
+  height: 250px;
+  border-radius: 10%;
+  text-align: center;
+  margin-top: 250px;
+  
+}
+
+.logo {
+
+position: absolute;
+bottom: 700px;
+left: 100px;
+  
+}
+
+.b .button {
+    background-color: #07070793;
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    top: 300px;
+    right: 100px;
+    
+    
+    
+   
+  }
+  
+  .b .button:not(:last-child) {
+    border-right: none; 
+  }
+  
+  .b .button:hover {
+    background-color: #ff11005b;
+  } 
+
+
+  .box
+  {
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+    text-align: center;
+  }
+
+  .card_text .comprar {
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    top: 30px;
+    font-size: xx-large;
+  }
+
+.card_text .comprar:not(:last-child) {
+      border-right: none; 
+    }
+    
+.card_text .comprar:hover {
+  background-color: green;
+}
+
+
+.card_text2 .comprar {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  position: relative;
+  top: 30px;
+  font-size: xx-large;
+  
+}
+
+.card_text2 .comprar:not(:last-child) {
+    border-right: none; 
+  }
+  
+.card_text2 .comprar:hover {
+background-color: green;
+}
+   
